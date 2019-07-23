@@ -1,0 +1,32 @@
+/* styles/main.css */
+body {background: rgb(245,217,255); 
+	font-family: 'Lora', serif;}
+h1 { color: black;
+ }
+ol {
+	font-weight: bold; 
+	color: black;
+}
+	a{  text-decoration: none;
+	color: rgb(rgb(111, 17, 143)); }
+	
+	#my_bar {
+		border-style: solid; 
+		border-color: rgb(53, 6, 69); 
+		border-radius: 15px;
+		background: white;
+	}
+	#my_name{ text-align: center;}
+	#nav{background-color: white; 
+		border-style: solid;
+		 border-radius: 15px; height:20px;}
+		 #live{background-color: white;
+		  border-style: solid;
+		  border-radius: 15px; height: 20px;}
+		  #my_ring{ text-align: center;
+		   }
+		   #Left_up {text-align: center;}
+		#flip_flop {text-align: center;}
+.margin_borders{border-style: solid;
+	border-color: white
+margin-top: 20px; margin-left: 20px; margin-right: 20px; }
